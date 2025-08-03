@@ -1,0 +1,101 @@
+# Stock Analysis Prompts
+
+## Basic Analysis Prompts
+
+### Technical Analysis
+- Analyze AAPL stock using technical indicators for the next 30 days
+- Provide a technical analysis of TSLA with RSI, MACD, and Bollinger Bands
+- Analyze MSFT stock price movement and identify key support/resistance levels
+- Generate trading signals for GOOGL based on technical indicators
+
+### Fundamental Analysis
+- Analyze NVDA fundamentals including P/E ratio, debt levels, and growth prospects
+- Provide fundamental analysis of AMZN focusing on revenue growth and market position
+- Analyze META's financial health and competitive position in social media
+- Evaluate JPM's banking fundamentals and dividend sustainability
+
+### Comprehensive Analysis
+- Provide a complete analysis of AAPL including technical and fundamental factors
+- Analyze TSLA stock for long-term investment potential (5+ years)
+- Generate a comprehensive report on MSFT for swing trading opportunities
+- Analyze GOOGL for both short-term trading and long-term investment
+
+## Advanced Analysis Prompts
+
+### Sector Analysis
+- Compare AAPL, MSFT, and GOOGL in the technology sector
+- Analyze the banking sector with focus on JPM, BAC, and WFC
+- Compare electric vehicle stocks: TSLA, NIO, and RIVN
+- Analyze semiconductor stocks: NVDA, AMD, and INTC
+
+### Risk Analysis
+- Assess the risk factors for TSLA stock investment
+- Analyze volatility and downside risk for NVDA
+- Evaluate market risk for AAPL in current economic conditions
+- Assess geopolitical risks affecting energy stocks
+
+### Growth Analysis
+- Analyze growth potential for emerging tech companies
+- Evaluate revenue growth trends for cloud computing stocks
+- Assess international expansion opportunities for consumer stocks
+- Analyze innovation pipeline for pharmaceutical companies
+
+## Specific Timeframe Analysis
+
+### Short-term (1-30 days)
+- Analyze AAPL for day trading opportunities
+- Provide swing trading analysis for TSLA
+- Generate intraday trading signals for MSFT
+- Analyze momentum indicators for GOOGL
+
+### Medium-term (1-6 months)
+- Analyze AAPL for quarterly earnings impact
+- Evaluate TSLA for seasonal patterns
+- Assess MSFT for sector rotation opportunities
+- Analyze GOOGL for market cycle positioning
+
+### Long-term (1+ years)
+- Analyze AAPL for retirement portfolio inclusion
+- Evaluate TSLA for disruptive technology potential
+- Assess MSFT for dividend growth investment
+- Analyze GOOGL for value vs growth characteristics
+
+## Specialized Analysis
+
+### Options Trading
+- Analyze AAPL options chain for covered call opportunities
+- Evaluate TSLA put options for hedging strategies
+- Assess MSFT options for income generation
+- Analyze GOOGL options for volatility trading
+
+### Dividend Analysis
+- Analyze dividend sustainability for JPM
+- Evaluate dividend growth for MSFT
+- Assess dividend yield for utility stocks
+- Analyze dividend aristocrats for income portfolios
+
+### ESG Analysis
+- Analyze ESG factors for TSLA
+- Evaluate sustainability metrics for AAPL
+- Assess governance practices for MSFT
+- Analyze social responsibility for GOOGL
+
+## Market Condition Analysis
+
+### Bull Market
+- Identify growth stocks for bull market continuation
+- Analyze momentum stocks for trend following
+- Evaluate cyclical stocks for economic expansion
+- Assess risk-on assets for aggressive strategies
+
+### Bear Market
+- Identify defensive stocks for bear market protection
+- Analyze dividend stocks for income generation
+- Evaluate inverse ETFs for hedging strategies
+- Assess cash positions for capital preservation
+
+### Sideways Market
+- Analyze range-bound trading strategies
+- Evaluate options strategies for low volatility
+- Assess mean reversion opportunities
+- Analyze sector rotation for sideways markets 

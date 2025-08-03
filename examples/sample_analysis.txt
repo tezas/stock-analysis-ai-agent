@@ -1,0 +1,37 @@
+Comprehensive Analysis Request for Tesla (TSLA)
+
+Please provide a detailed analysis of Tesla Inc. (TSLA) stock with the following requirements:
+
+1. Technical Analysis:
+   - Calculate and interpret RSI, MACD, and Bollinger Bands
+   - Identify key support and resistance levels
+   - Analyze volume patterns and trends
+   - Evaluate moving averages (20, 50, 200-day)
+
+2. Fundamental Analysis:
+   - Review P/E ratio and valuation metrics
+   - Analyze revenue growth and profitability trends
+   - Assess market position in electric vehicle industry
+   - Evaluate competitive advantages and risks
+
+3. Market Context:
+   - Consider current market conditions
+   - Analyze sector performance and trends
+   - Evaluate macroeconomic factors affecting the stock
+
+4. Risk Assessment:
+   - Identify specific risks for TSLA
+   - Assess volatility and downside potential
+   - Consider regulatory and competitive risks
+
+5. Investment Recommendations:
+   - Provide specific entry and exit points
+   - Suggest position sizing and risk management
+   - Include short-term (1-3 months) and long-term (1+ years) outlook
+
+6. Key Catalysts:
+   - Upcoming earnings and events
+   - Product launches and announcements
+   - Market developments to watch
+
+Please provide price targets with confidence levels and explain the reasoning behind your recommendations. 

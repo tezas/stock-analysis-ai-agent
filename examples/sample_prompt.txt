@@ -1,0 +1,34 @@
+Analyze AAPL stock for the next 30 days with technical indicators
+
+Please provide a comprehensive analysis of Apple Inc. (AAPL) stock including:
+
+1. Technical Analysis:
+   - RSI, MACD, and Bollinger Bands
+   - Support and resistance levels
+   - Moving averages (20-day, 50-day, 200-day)
+   - Volume analysis
+
+2. Fundamental Analysis:
+   - P/E ratio and valuation metrics
+   - Revenue and earnings growth
+   - Market position and competitive advantages
+   - Recent news and events impact
+
+3. Risk Assessment:
+   - Market volatility considerations
+   - Sector-specific risks
+   - Macroeconomic factors
+
+4. Trading Recommendations:
+   - Entry and exit points
+   - Stop-loss levels
+   - Position sizing suggestions
+   - Time horizon recommendations
+
+5. Key Catalysts:
+   - Upcoming earnings
+   - Product launches
+   - Market events
+   - Analyst expectations
+
+Please provide specific price targets and confidence levels for your analysis. 
